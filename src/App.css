@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Orbitron:wght@400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+.contene {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+.digital {
+  background-color: black;
+  color: white;
+  display: flex;
+
+  border-radius: 2rem;
+  user-select: none;
+  padding: 0 2rem;
+  border: 0.5rem solid #2b2b2b;
+}
+.dia {
+  display: flex;
+  padding: 20px;
+  width: 3rem;
+  color: #2b2b2b;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+.hoje {
+  color: white;
+  opacity: 1;
+}
+.hora {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  font-size: 13rem;
+}
