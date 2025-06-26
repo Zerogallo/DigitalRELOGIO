@@ -1,12 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Relógio Digital em React ⏰
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Um relógio digital estilizado com React, exibindo *horas, minutos, segundos e dia da semana* em formato LED.
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
+- Exibe tempo real atualizado a cada segundo.
+- Formatação em 2 dígitos (ex: 09:05:02).
+- Dia da semana em PT-BR (ex: Seg, Ter, Qua).
+- Efeitos visuais CSS simulando display LED.
+- Responsivo e de fácil customização.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias
+- React (com Hooks useState e useEffect)
+- CSS3 (com animações e efeitos de brilho)
+
+
+
+
+## 📸 Preview
+![Preview do Relógio](https://github.com/Zerogallo/DigitalRELOGIO/blob/main/public/imgeRELOGIO.PNG) 
+
+--- 
+
+### 📌 Destaques
+✔️ Código limpo e comentado  
+✔️ Leve e performático  
+✔️ Fácil integração com outros projetos  
+
